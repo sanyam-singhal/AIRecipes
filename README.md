@@ -13,7 +13,7 @@ A tool for generating extensive long-form content using AI language models. Feat
 - Research material generation capability
 - Rate-limited for API compliance
 
-[Learn more about Long Form Content Generation](./1_%20Long%20Form%20Content%20Generation/intro.md)
+[Learn more about Long Form Content Generation](./1_%20Long%20Form%20Content%20Generation/README.md)
 
 ### 2. Reel Creation
 Located in `2_Reel Creation/`
@@ -24,7 +24,7 @@ A tool for creating Instagram-style reels with AI-powered text-to-speech. Featur
 - Custom video formatting for social media
 - Synchronized audio-visual content
 
-[Learn more about Reel Creation](./2_Reel%20Creation/intro.md)
+[Learn more about Reel Creation](./2_Reel%20Creation/README.md)
 
 ## Dependencies
 
@@ -60,4 +60,4 @@ ELEVENLABS_KEY=your_elevenlabs_api_key
 
 ## Usage
 
-Each module has its own documentation with detailed usage instructions. See the respective intro.md files in each directory.
+Each module has its own documentation with detailed usage instructions. See the respective README.md files in each directory.
